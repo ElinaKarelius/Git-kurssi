@@ -3,3 +3,4 @@
 - Kaurakermaa
 - Kana
 - Salaattia
+- Karamellejä
