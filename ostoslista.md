@@ -1,3 +1,4 @@
 - Penne pastaa
 - Tomaattikastiketta
 - Kaurakermaa
+- Kana
