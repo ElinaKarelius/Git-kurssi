@@ -2,3 +2,4 @@
 - Tomaattikastiketta
 - Kaurakermaa
 - Kana
+- Salaattia
